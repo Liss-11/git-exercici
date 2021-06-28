@@ -1,3 +1,13 @@
+
 Hola primer proyecto GitHub
 
 canvi 2
+=======
+
+
+
+
+
+I aqui un text diferent de la branch1
+
+
